@@ -42,6 +42,10 @@ p {
   margin: 20px;
 }
 
+.about-heading{
+  display: flex;
+  justify-content: center;
+}
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
@@ -75,6 +79,9 @@ p {
   margin: 10px;
 }
 
+#contact{
+  text-align: center;
+}
 .email-link {
   display: flex;
   justify-content: center;
